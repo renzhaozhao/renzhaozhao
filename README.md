@@ -8,7 +8,7 @@
 
   <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
-- 💬 想做个开源项目
+- 💬 由于之前的偷懒，导致github没有能拿的出手的东西，博客也是一些随笔，以后要努力沉淀了。
 - 📫 我的邮箱: [renzhao2012@gmail.com](mailto:renzhao2012@gmail.com);
 - 📝 [我的博客主页](http://renzhaozhao.github.io/)
 
@@ -53,42 +53,36 @@
   <summary>2015.03~2015.11</summary>
 <div style="width: 98%; margin: 0 auto">
 <ul>
-<li>3月从老东家裸辞，来到杭州，边学js和jquery边面试，面了4家之后进了一家P2P外包公司。期间巩固了js基础，接触到了AMD/CMD按需加载、Nodejs、Angular1</li>
+<li>3月从老东家裸辞，来到杭州，边学js和jquery边面试，面了4家之后进了一家P2P外包公司。期间巩固了js基础，接触到了AMD/CMD按需加载、Nodejs、Angular1、命令行工具。</li>
 </ul>
 </div>
+</details>
 
 <details style="cursor: pointer;">
   <summary>2015.11~2017.03</summary>
 <div style="width: 98%; margin: 0 auto">
 <ul>
-<li>因不想一直在外包公司做日复一日的拷贝粘贴+感觉技术达到了瓶颈(飘了)+工资底+离家远，11月跳槽去了一家小公司，</li>
+<li>因不想一直在外包公司做日复一日的拷贝粘贴+感觉技术达到了瓶颈(飘了)+工资底+离家远，11月跳槽去了一家小公司，从我一个前端，发展到带3个人。期间接触到了Vue1、React、Webpack、Git、Docker。终于买了属于自己的Mac，痴迷于命令行。</li>
 </ul>
 </div>
 </details>
 
 <details style="cursor: pointer;">
-  <summary>2013年</summary>
+  <summary>2017.03~2021.05</summary>
 <div style="width: 98%; margin: 0 auto">
 <ul>
-<li>4月转行开始做切图仔，学习css3、html5、淘宝widget。</li>
+<li>事情少+单双休引起了我极大的反感，于是3月份我跳槽去了一家电竞公司。接触到了React同构SSR、CI/CD、性能优化。</li>
+<li>18年下半年晋升至前端主管和项目组技术负责人，期间主导了引入eslint加强代码规范、抽离服务端组件库、组件库加入ts、gitlab-ci接入、使用vue2构建内部系统。</li>
+<li>19年年初晋升至项目组负责人，开始了纯管理之路。可能因为之前对业务的不敏感导致需要学习的东西太多，可能是因为我觉得写代码已经不是我的工作了，写代码的时间变得很少，导致技术停滞不前，甚至还有落后。积累了一些管理经验和对业务的敏感度。</li>
 </ul>
 </div>
 </details>
 
 <details style="cursor: pointer;">
-  <summary>2014年</summary>
+  <summary>现在</summary>
 <div style="width: 98%; margin: 0 auto">
 <ul>
-<li>学习设计和管理实习生</li>
-</ul>
-</div>
-</details>
-
-<details style="cursor: pointer;">
-  <summary>2015年</summary>
-<div style="width: 98%; margin: 0 auto">
-<ul>
-<li>3月裸辞来到杭州，一星期面了</li>
+<li>年初公司业务收到影响，开始找工作，开始不停碰壁，才发现自己已经落下太多东西了。于是决定开始加强学习，充实自己，为更好的未来加油！</li>
 </ul>
 </div>
 </details>
