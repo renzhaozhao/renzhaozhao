@@ -89,4 +89,4 @@
 
 ----------
 
-Thank You!
+Thank you for Reading!
